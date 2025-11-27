@@ -1,5 +1,6 @@
 # langchain-demos
-Simple LangChain demos for beginners. Build your first RAG app, create agents, and explore LangGraph step by step.
+
+使用 uv 安装 python 依赖，并启动 notebook
 
 ```bash
 uv sync
