@@ -28,6 +28,7 @@ dependencies = [
     "langchain-experimental>=0.4.0",
     "tavily-python>=0.7.13",
     "ddgs>=9.9.2",
+    "langchain-tavily>=0.2.13",
 ]
 
 [[tool.uv.index]]
