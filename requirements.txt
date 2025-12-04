@@ -17,3 +17,4 @@ rank_bm25
 sentence_transformers 
 chainlit
 ddgs
+python-dotenv
